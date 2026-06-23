@@ -1,5 +1,115 @@
 2 de junho 2026 guarapuava
 <h1>pablin dutoriais</h1>
+<<<<<<< HEAD
+<p>Vou compartilhar conhecimentos sobre tecnologia e programação</p>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fênix Futebol Clube - Site Oficial</title>
+    <style>
+        /* Estilos atualizados para a identidade do time */
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f4f8; /* Fundo cinza claro esportivo */
+            color: #333;
+        }
+
+        header {
+            background-color: #0d47a1; /* Azul escuro principal */
+            color: white;
+            text-align: center;
+            padding: 2.5rem 1rem;
+            border-bottom: 5px solid #ffb300; /* Detalhe em ouro */
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.8rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        header p {
+            margin: 0.5rem 0 0 0;
+            font-style: italic;
+            color: #e0e0e0;
+        }
+
+        main {
+            max-width: 800px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+
+        section {
+            background-color: white;
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+        }
+
+        h2 {
+            color: #0d47a1;
+            border-bottom: 2px solid #ffb300;
+            padding-bottom: 0.5rem;
+        }
+
+        ul {
+            padding-left: 1.2rem;
+        }
+
+        li {
+            margin-bottom: 0.6rem;
+            list-style-type: '⚽ '; /* Ícone personalizado de futebol */
+            padding-left: 0.5rem;
+            font-weight: 500;
+        }
+
+        footer {
+            text-align: center;
+            padding: 1.5rem;
+            background-color: #111;
+            color: #aaa;
+            width: 100%;
+            box-sizing: border-box;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Fênix Futebol Clube</h1>
+        <p>Garra, determinação e paixão em campo</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>Sobre o Clube</h2>
+            <p>Fundado com o objetivo de unir a comunidade através do esporte, o Fênix Futebol Clube representa a força da superação. Buscamos a excelência dentro e fora de campo, sempre jogando com raça, união e respeito aos nossos adversários.</p>
+        </section>
+
+        <section>
+            <h2>Nossos Pilares</h2>
+            <ul>
+                <li>Trabalho em equipe e foco na vitória</li>
+                <li>Desenvolvimento e apoio às categorias de base</li>
+                <li>Respeito e Fair Play em todas as competições</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 - Site Oficial do Fênix F.C. | Todos os direitos reservados</p>
+    </footer>
+
+</body>
+</html>
+=======
 <p>Vou compartilhar conhecimentos sobre tecnologia e programação</p><!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -98,3 +208,5 @@
 
 </body>
 </html>
+
+>>>>>>> c603dbb4392717dbb04d2f8f17e0ded975290e62
