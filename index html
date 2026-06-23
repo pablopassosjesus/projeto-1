@@ -1,3 +1,100 @@
 2 de junho 2026 guarapuava
 <h1>pablin dutoriais</h1>
-<p>Vou compartilhar conhecimentos sobre tecnologia e programação</p>
+<p>Vou compartilhar conhecimentos sobre tecnologia e programação</p><!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Projeto Agrinho</title>
+    <style>
+        /* Estilos básicos para dar vida ao projeto */
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f9f4;
+            color: #333;
+        }
+
+        header {
+            background-color: #2e7d32; /* Verde folha */
+            color: white;
+            text-align: center;
+            padding: 2rem 1rem;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+
+        main {
+            max-width: 800px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+
+        section {
+            background-color: white;
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        h2 {
+            color: #1b5e20;
+            border-bottom: 2px solid #a5d6a7;
+            padding-bottom: 0.5rem;
+        }
+
+        ul {
+            padding-left: 1.2rem;
+        }
+
+        li {
+            margin-bottom: 0.5rem;
+            list-style-type: ✔️ ; /* Um detalhe personalizado para a lista */
+            padding-left: 0.5rem;
+        }
+
+        footer {
+            text-align: center;
+            padding: 1rem;
+            background-color: #333;
+            color: white;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Projeto Agrinho</h1>
+        <p>Sustentabilidade e inovação no campo</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>O que é o Agrinho?</h2>
+            <p>O Agrinho é um programa educativo que leva propostas de cidadania, saúde e meio ambiente para as escolas, incentivando o desenvolvimento sustentável e a conexão entre o campo e a cidade.</p>
+        </section>
+
+        <section>
+            <h2>Nossas Ideias</h2>
+            <ul>
+                <li>Preservação da água</li>
+                <li>Agricultura familiar sustentável</li>
+                <li>Uso consciente da tecnologia</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 - Desenvolvido para o Concurso Agrinho</p>
+    </footer>
+
+</body>
+</html>
